@@ -33,6 +33,8 @@ The Weather App is a web application that provides weather information for a giv
 
 ### Getting started
 
+- Npm install on both backend and frontend
+- Do npx tsc on the backend directory
 - Navigate to the backend directory and do npm start (do this first, it is crucial)
 - Navigate to the frontend directory and do npm start
 
