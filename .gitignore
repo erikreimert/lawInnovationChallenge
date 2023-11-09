@@ -1,0 +1,10 @@
+# Ignore the "dist" directory
+**/dist
+
+# Ignore the "node_modules" directory
+**/node_modules
+
+# Ignore the "src/constants.ts" file
+**/src/constants.ts
+
+/.idea
